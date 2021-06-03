@@ -1,7 +1,7 @@
 {
   "name": "Darkest Theme with Blue",
   "author": "Chris Burwell / Countchrisdo",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "version": "2021.6.2",
   "theme": {
       "colors": {
