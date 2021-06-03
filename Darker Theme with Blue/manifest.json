@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Darker theme with Blue Highlight",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-037-b73f9b34467ba541de861f5b4c0c6316.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(21, 23, 40)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(4, 6, 17)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "toolbar_field": "rgb(54, 58, 89)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(22, 66, 255)",
+      "popup": "rgb(12, 12, 25)",
+      "popup_text": "rgb(215, 226, 239)",
+      "tab_loading": "rgb(22, 66, 255)"
+    }
+  }
+}
