@@ -1,5 +1,5 @@
-# browser-themes
-Here are the themes I made for Firefox. You can support me with Bitcoin: 32RvWYe5qH7D2HgH1jPj6BgxUexrNMizqD or https://paypal.me/CRBurwell
+# Browser Themes
+These are a couple themes I made for Firefox
 
 # Links
 Dark Theme with blue accent
